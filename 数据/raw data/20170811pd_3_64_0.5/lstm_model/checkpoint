@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/longxj/test/20170811pd_3_64_0.5/lstm_model/ckp"
+all_model_checkpoint_paths: "/home/longxj/test/20170811pd_3_64_0.5/lstm_model/ckp"
