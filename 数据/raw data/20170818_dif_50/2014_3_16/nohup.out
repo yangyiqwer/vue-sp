@@ -1,0 +1,5 @@
+Finished computation graph
+Traceback (most recent call last):
+  File "tsc_mainR.py", line 95, in <module>
+    f.wirte(str(ans) + '\n')
+AttributeError: '_io.TextIOWrapper' object has no attribute 'wirte'

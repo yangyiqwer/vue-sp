@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/longxj/test/20170821_dif_radio_50/2014_1_16_10000/lstm_model/ckp"
+all_model_checkpoint_paths: "/home/longxj/test/20170821_dif_radio_50/2014_1_16_10000/lstm_model/ckp"

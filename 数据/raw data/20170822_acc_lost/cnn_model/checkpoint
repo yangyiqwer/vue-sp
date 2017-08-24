@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/longxj/test/20170822_acc_lost/cnn_model/ckp"
+all_model_checkpoint_paths: "/home/longxj/test/20170822_acc_lost/cnn_model/ckp"
